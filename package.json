@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-svg2png": "^2.0.2"
+  },
+  "scripts": {
+    "build": "node_modules/.bin/gulp"
+  }
+}
